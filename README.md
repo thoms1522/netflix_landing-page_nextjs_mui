@@ -1,5 +1,5 @@
 # Next.js with material ui
-## Netflix landing page looks like
+# Netflix landing page looks like
 
 Clone:
 
